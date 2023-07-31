@@ -1,0 +1,15 @@
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\bin\Debug\net6.0\Question 03.exe
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\bin\Debug\net6.0\Question 03.deps.json
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\bin\Debug\net6.0\Question 03.runtimeconfig.json
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\bin\Debug\net6.0\Question 03.dll
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\bin\Debug\net6.0\Question 03.pdb
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\obj\Debug\net6.0\Question 03.csproj.AssemblyReference.cache
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\obj\Debug\net6.0\Question 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\obj\Debug\net6.0\Question 03.AssemblyInfoInputs.cache
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\obj\Debug\net6.0\Question 03.AssemblyInfo.cs
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\obj\Debug\net6.0\Question 03.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\obj\Debug\net6.0\Question 03.dll
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\obj\Debug\net6.0\refint\Question 03.dll
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\obj\Debug\net6.0\Question 03.pdb
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\obj\Debug\net6.0\Question 03.genruntimeconfig.cache
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\Question 03\Question 03\obj\Debug\net6.0\ref\Question 03.dll

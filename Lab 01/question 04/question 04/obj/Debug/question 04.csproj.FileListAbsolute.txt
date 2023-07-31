@@ -1,0 +1,8 @@
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\question 04\question 04\obj\Debug\question 04.csproj.AssemblyReference.cache
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\question 04\question 04\obj\Debug\question 04.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\question 04\question 04\obj\Debug\question 04.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\question 04\question 04\bin\Debug\question 04.exe.config
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\question 04\question 04\bin\Debug\question 04.exe
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\question 04\question 04\bin\Debug\question 04.pdb
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\question 04\question 04\obj\Debug\question 04.exe
+C:\Users\user\Documents\NSBM GREEN UNIVERSITY\NSBM degree\2 sem\C#\C#labs\Lab 01\question 04\question 04\obj\Debug\question 04.pdb
